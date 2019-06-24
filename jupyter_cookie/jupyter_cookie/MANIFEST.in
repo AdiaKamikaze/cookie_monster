@@ -1,0 +1,2 @@
+recursive-include jupyter_cookie/static *.*
+include jupyter_cookie.json
